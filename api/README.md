@@ -1,1 +1,1 @@
-Projeto criado com: <a href=“https://github.com/edercatini“>Eder Catini</a>
+Projeto criado com: [Eder Catini](https://github.com/edercatini)
